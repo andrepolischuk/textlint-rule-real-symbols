@@ -4,7 +4,8 @@
   "description": "Use real symbols, not alphabetic substitutes",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "symbols.json"
   ],
   "engine": {
     "node": ">=6"
