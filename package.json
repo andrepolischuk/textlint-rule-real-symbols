@@ -7,7 +7,7 @@
     "index.js"
   ],
   "engine": {
-    "node": ">= 4"
+    "node": ">=6"
   },
   "scripts": {
     "test": "standard && jest",
