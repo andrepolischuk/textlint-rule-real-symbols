@@ -1,0 +1,39 @@
+{
+  "name": "textlint-rule-real-symbols",
+  "version": "0.0.0",
+  "description": "Use real symbols, not alphabetic substitutes",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engine": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "test": "standard && jest",
+    "postpublish": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrepolischuk/textlint-rule-real-symbols.git"
+  },
+  "keywords": [
+    "textlintrule",
+    "textlint",
+    "rule",
+    "symbol",
+    "typography"
+  ],
+  "author": "Andrey Polischuk <me@andrepolischuk.com> (https://andrepolischuk.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrepolischuk/textlint-rule-real-symbols/issues"
+  },
+  "homepage": "https://github.com/andrepolischuk/textlint-rule-real-symbols#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "standard": "^10.0.2",
+    "textlint-tester": "^3.0.3"
+  }
+}
