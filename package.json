@@ -1,6 +1,6 @@
 {
   "name": "textlint-rule-real-symbols",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use real symbols, not alphabetic substitutes",
   "main": "index.js",
   "files": [
